@@ -27,6 +27,7 @@
 </div>
 ---
 ▞▚▞ ✧ ✶ ✧ ▚▞▚
+
 ## ✧ Descripción
 Un toolkit para convertir tus exportaciones de ChatGPT en **vaults de Obsidian**: ordenados, deduplicados, etiquetados y listos para explorar como fragmentos de memoria glitch kawaii.  
 
