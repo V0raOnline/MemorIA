@@ -25,10 +25,15 @@
 </p>
 
 </div>
+
 ---
+⭐ ¡Regálame una estrellita y comparte si lo encuentras útil!"
+---
+
 ▞▚▞ ✧ ✶ ✧ ▚▞▚
 
 ## ✧ Descripción
+
 Un toolkit para convertir tus exportaciones de ChatGPT en **vaults de Obsidian**: ordenados, deduplicados, etiquetados y listos para explorar como fragmentos de memoria glitch kawaii.  
 
 Conoce a nuestros scripts-> [[THE CREW]]
