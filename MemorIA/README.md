@@ -30,6 +30,15 @@
 ## ✧ Descripción
 Un toolkit para convertir tus exportaciones de ChatGPT en **vaults de Obsidian**: ordenados, deduplicados, etiquetados y listos para explorar como fragmentos de memoria glitch kawaii.  
 
+## 🌍 Language
+
+Currently documented in Spanish. English translation in roadmap.
+
+The code is well-structured and Python is universal - visual guides 
+help navigate even without Spanish fluency.
+
+Contributions for English translation welcome!
+
 Conoce a nuestros scripts-> [[THE CREW]]
 ## ✧ ¿Por qué MemorIA?
 
