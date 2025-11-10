@@ -1,0 +1,2 @@
+Reanimate_Vault.ps1 is a small powershell script to go back to the backup versions of the vault.
+reset_vault.bat is a small batch to delete all the notes in a VAULT to start over.
