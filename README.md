@@ -30,6 +30,15 @@
 ⭐ ¡Regálame una estrellita y comparte si lo encuentras útil!"
 ---
 
+## 🌍 Idioma / Language
+
+📝 Actualmente documentado en español. Traducción al inglés en roadmap.
+
+Currently documented in Spanish. English translation planned in roadmap.
+Code is well-structured Python - visual guides help even without Spanish fluency.
+
+---
+
 ▞▚▞ ✧ ✶ ✧ ▚▞▚
 
 ## ✧ Descripción
